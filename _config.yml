@@ -26,7 +26,7 @@ author:
   pronouns         : "she/her"  
   bio              : #"Short biography for the left-hand sidebar"
   location         : "Auckland, New Zealand"
-  employer         : "The University of Auckland Business School"
+  employer         : "The University of Auckland"
   uri              : # URL
   email            : "zxynju@smail.nju.edu.cn" 
 
@@ -49,7 +49,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : #"bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
