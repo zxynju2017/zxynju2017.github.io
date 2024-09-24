@@ -24,20 +24,21 @@ author:
   avatar           : "profile.png"
   name             : "Xiaoyu Zhang"
   pronouns         : "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "The University of Auckland"
+  bio              : #"Short biography for the left-hand sidebar"
+  location         : "Auckland, New Zealand"
+  employer         : "The University of Auckland Business School"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "zxynju@smail.nju.edu.cn" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=QoeZ1gcAAAAJ"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/my-orcid?orcid=0000-0001-9975-7924"
   semantic         : # URL
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
+  
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
@@ -57,7 +58,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "xiaoyu-zhang-47977816a"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
