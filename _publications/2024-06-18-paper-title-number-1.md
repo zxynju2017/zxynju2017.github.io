@@ -1,7 +1,7 @@
 ---
 title: "Engaging with AI painting: exploring motivations and challenges in laypeople’s creative information practices"
 collection: publications
-category: Journal
+category: journal
 permalink: /publication/2024-06-18-paper-title-number-1
 excerpt: #'This paper is about the number 1. The number 2 is left for future work.'
 date: 2024-06-18
